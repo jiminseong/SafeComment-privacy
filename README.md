@@ -1,2 +1,0 @@
-# SafeComment-privacy
-SafeComment-privacy
